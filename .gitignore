@@ -1,0 +1,7 @@
+*.mp4
+*.npy
+*.png
+*.zip
+wandb/
+*.pth
+*.dat
